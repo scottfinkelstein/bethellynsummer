@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="43px" viewBox="0 0 43 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>close-button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1218.000000, -2031.000000)">
+            <g id="close-button" transform="translate(1218.000000, 2031.000000)">
+                <circle id="Oval-2" fill="#E9639F" cx="21.5" cy="21.5" r="21.5"></circle>
+                <polygon id="X" fill="#FFFFFF" points="9.05271283 9.88360237 17.526798 9.88360237 21.942153 17.5425451 26.221651 9.88360237 34.6108255 9.88360237 26.8669721 21.940918 35.3410573 34.7794118 26.6971507 34.7794118 21.7893138 26.7808263 16.8644948 34.7794118 8.27153464 34.7794118 16.8644948 21.8050609"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
