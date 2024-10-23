@@ -42,7 +42,8 @@ nav {
   background-color: #FFF9DC;
   background-image: url(../images/about-header-bg.png);
   background-repeat: repeat-y repeat-x;
-  text-align: center; }
+  text-align: center;
+  height: 100vh; }
   #home-section #logo-container {
     padding-top: 150px;
     left: 0;
@@ -58,8 +59,12 @@ nav {
       display: inline-block;
       margin-right: 20px; }
 
+#about-section {
+  height: 100vh; }
+
 #book-section {
-  background-color: #E9639F; }
+  background-color: #E9639F;
+  height: 100vh; }
   #book-section p {
     color: #FFF;
     font-weight: bold; }

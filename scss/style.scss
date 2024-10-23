@@ -61,6 +61,7 @@ nav {
     background-image: url(../images/about-header-bg.png);
     background-repeat: repeat-y repeat-x;
     text-align: center;
+    height: 100vh;
 
     #logo-container {
       padding-top: 150px;
@@ -86,12 +87,13 @@ nav {
 }
 
 #about-section {
-
+  height: 100vh;
 
 }
 
 #book-section {
   background-color: $book_bg;
+  height: 100vh;
 
   p {
     color: #FFF;
